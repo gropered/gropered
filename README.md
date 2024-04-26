@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gropered
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning python, node.js
+- 💞️ I’m looking to collaborate on  Cloud Server Management
+- 📫 How to reach me https://github.com/gropered
